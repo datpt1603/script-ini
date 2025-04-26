@@ -15,4 +15,4 @@ if [ ! -f "iniminer-linux-x64" ]; then
 fi
 
 # Chạy miner
-sudo ./iniminer-linux-x64 --pool stratum+tcp://0x80b6D2c5bE4E52F10b2360c95AFeEAc9Efb0C0A3.Woker001@pool-b.yatespool.com:32488
+sudo ./iniminer-linux-x64 --pool stratum+tcp://0x7d97f01d69a7b0eB7C4cA9AC80Deb609A885996f.Woker001@pool-b.yatespool.com:32488
